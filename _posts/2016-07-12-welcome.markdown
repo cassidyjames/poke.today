@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to PokéToday!"
+title:  "Welcome!"
 date:   2016-07-12 20:51:54 -0600
 categories: update
 ---
