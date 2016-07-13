@@ -348,6 +348,7 @@ section {
 }
 .ad {
     margin: 0 auto;
+    max-width: 900px;
 }
 @keyframes bounce {0% {
     transform: translate3d( 0, -1000px, 0 );
