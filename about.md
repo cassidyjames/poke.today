@@ -4,8 +4,9 @@ title: About PokéToday
 permalink: /about/
 ---
 
-A collection of Pokémon Go resources in one nice spot. :) Tips, tricks, and
-guides for all you Pokémasters.
+{{ site.description }}
+
+Created by [Cassidy James Blaede](http://cassidyjames.com).
 
 # Ads?
 
