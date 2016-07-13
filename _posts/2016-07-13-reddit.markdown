@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reddit"
+date:   2016-07-12 20:51:54 -0600
+categories: update
+---
+
+Reddit has some great resources for trainers! The main [/r/pokemongo](https://www.reddit.com/r/pokemongo)
+subreddit is rapidly growing and quickly turning into a great discussion forum
+and space to figure out the intricacies of Pokémon Go.
+
+## Regional Subreddits
+
+/r/pokemongo has put together an awesome list of regional subreddits. Hop over
+to their [regionalsubs](https://www.reddit.com/r/pokemongo/wiki/regionalsubs)
+wiki page for more!
