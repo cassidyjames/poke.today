@@ -1,16 +1,40 @@
 ---
 layout: post
 title:  "Reddit"
-date:   2016-07-12 20:51:54 -0600
+date:   2016-07-12 23:30:00 -0600
 categories: update
 ---
 
-Reddit has some great resources for trainers! The main [/r/pokemongo](https://www.reddit.com/r/pokemongo)
-subreddit is rapidly growing and quickly turning into a great discussion forum
-and space to figure out the intricacies of Pokémon Go.
+If you&rsquo;re a Pokémon Go player and fan/user of Reddit, you're in luck!
+Reddit has some nice resources for trainers.
+
+The main [/r/pokemongo](https://www.reddit.com/r/pokemongo) subreddit is rapidly
+growing and quickly turning into a great discussion forum and space to figure
+out the intricacies of Pokémon Go.
 
 ## Regional Subreddits
 
 /r/pokemongo has put together an awesome list of regional subreddits. Hop over
 to their [regionalsubs](https://www.reddit.com/r/pokemongo/wiki/regionalsubs)
 wiki page for more!
+
+## Team Subreddits
+
+There are subreddits for each of the three Pokémon Go teams:
+
+  * **Valor** (red): [/r/PokemonGOValor](https://www.reddit.com/r/PokemonGOValor)
+  * **Mystic** (blue): [/r/PokemonGOMystic](https://www.reddit.com/r/PokemonGOMystic)
+  * **Instinct** (yellow): [/r/PokemonGOYellow](https://www.reddit.com/r/PokemonGOYellow)
+
+Go hang out and strategize! &hellip;or talk about animating logos. Whatever&rsquo;s
+hip these days.
+
+## Others
+
+  * **[/r/PokemonGoStories](https://www.reddit.com/r/PokemonGoStories)** for fun
+  stories of Pokémon Go adventures
+  * **[/r/PokemonGoSnap](https://www.reddit.com/r/PokemonGoSnap)** to see and
+  share photos taken in Pokémon Go
+
+That&rsquo;s it for today! I&rsquo;ll keep this list updated if/when more Reddit
+resources pop up.
