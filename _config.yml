@@ -3,8 +3,8 @@ title: PokéToday
 description: >
   A collection of Pokémon Go resources in one nice spot. :) Tips, tricks, and
   guides for all you Pokémasters.
-google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics: UA-XXXXXXX-X # Put your Google Analytics code
+google_verify: # Put your Google Verification here
+google_analytics: UA-80729409-1 # Put your Google Analytics code
 
 # Author Info
 author_name: "Cassidy James Blaede"
