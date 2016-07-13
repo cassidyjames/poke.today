@@ -5,7 +5,7 @@ date:   2016-07-13 07:21:00 -0600
 categories: update
 ---
 
-The Pokémon Go team [announced](https://plus.google.com/+pokemongo/posts/1G8BdXnk9Ci)
+The Pokémon GO team [announced](https://plus.google.com/+pokemongo/posts/1G8BdXnk9Ci)
 an update today to both the Android and iOS apps!
 
 According to the team, they have made the following improvements:
