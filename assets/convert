@@ -1,0 +1,1 @@
+convert -crop '720x1136+0+48' input.png output.png
