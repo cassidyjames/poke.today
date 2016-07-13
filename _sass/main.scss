@@ -16,6 +16,12 @@ h5 {
   margin: 45px 0 25px;
 }
 img {
+  display: block;
+  margin : {
+      left: auto;
+      right: auto;
+  }
+  max-height: 50vh;
   max-width: 100%;
 }
 a {
