@@ -9,11 +9,10 @@
 title: PokéToday
 email: cassidy@poke.today
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collection of Pokémon Go resources in one nice spot. :) Tips, tricks, and
+  guides for all you Pokémasters.
 baseurl: "/poke" # the subpath of your site, e.g. /blog
-url: "http://cassidyjames.com" # the base hostname & protocol for your site
+url: "http://poke.today" # the base hostname & protocol for your site
 twitter_username: cassidyjames
 github_username:  cassidyjames
 
