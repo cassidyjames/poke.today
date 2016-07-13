@@ -14,7 +14,7 @@ author_gravatar: dce1ff505107fe4b8382d591e5b720ad # Gravatar md5 hash
 twitter_username: CassidyJames
 
 # Site Settings
-baseurl: "/poke" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://poke.today" # the base hostname & protocol for your site
 permalink: /notes/:title # Post permalink
 timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
